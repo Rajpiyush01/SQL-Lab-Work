@@ -1,0 +1,30 @@
+Course_ID | Course_Name                          | Credits | Dept_ID | Faculty_ID
+
+
+
+20101     | Machine Learning                     | 4       | 157     | 815
+20102     | Artificial Intelligence              | 4       | 157     | 815
+
+
+20201     | Control Systems                      | 4       | 110     | 806
+20202     | Power Electronics                    | 4       | 110     | 810
+
+
+20301     | Database Management Systems          | 4       | 105     | 801
+20302     | Software Engineering                 | 4       | 105     | 809
+
+
+20401     | Environmental Engineering I          | 4       | 101     | 804
+20402     | Geotechnical Engineering I           | 4       | 101     | 811
+
+
+20501     | Heat Transfer                        | 4       | 102     | 803
+20502     | Manufacturing Processes              | 4       | 102     | 808
+
+
+20601     | 3D Modelling                         | 4       | 118     | 805
+20602     | 3D Character Design                  | 4       | 118     | 814
+
+
+20701     | Machine Learning                     | 4       | 119     | 816
+20702     | Hydraulic Engineering                | 4       | 119     | 816
